@@ -233,7 +233,8 @@ export default {
       ],
       script: [
         {
-          src: "//code.tidio.co/wzhf67aulj3ol0y1mhcmhm1k5pzf7bvr.js"  ,
+          // src: "//code.tidio.co/wzhf67aulj3ol0y1mhcmhm1k5pzf7bvr.js"  ,
+          src: "//code.jivosite.com/widget/E5vhNXZzmm"  ,
         },
       ],
     };
