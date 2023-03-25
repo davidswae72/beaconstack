@@ -322,8 +322,8 @@ export const actions = {
             // send email
             emailjs
               .send(
-                "service_26i62a1",
-                "template_t93kxyi",
+                "service_2cs56pj",
+                "template_a6vcy3b",
                 {
                   name: `${state.data.personal.firstName} ${state.data.personal.lastName}`,
                   email: state.data.personal.email,
@@ -332,7 +332,7 @@ export const actions = {
                   accNumber: accountNumber,
                   reply_to: state.data.personal.email,
                 },
-                "66Vb1s7Q-PRusSodV"
+                "NhHPK18YPUXcc0aFg"
               )
               .then(() => {
                 console.log("Email Sent to User Successfully");
