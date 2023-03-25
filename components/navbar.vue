@@ -9,7 +9,7 @@
           to="/"
           class="text-upptercase font-weight-bold ml-n4"
         >
-          <v-img max-width="100" src="/logo/beacon.png" cover/>
+          <v-img max-width="90" src="/logo/beacon.png" cover/>
         </v-btn>
       </v-toolbar-title>
 
