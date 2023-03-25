@@ -1,0 +1,19 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+$body-font-family: "DM Sans", Roboto, sans-serif;
+
+.bg-gradient {
+    background: #002979;
+    background: linear-gradient(90deg,
+    #002979 18%,
+    #002979 100%);
+}
+
+.foott{
+    background: #002979;
+    background: linear-gradient(180deg,
+    #002979 18%,
+    #e5f0f8 100%);
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_3defa334"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_54814b4c"
+  },
+  {
+    "name": "careers",
+    "path": "/careers",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers",
+    "_name": "_e39b1964"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_7b99fd8e"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_3fc37e75"
+  },
+  {
+    "name": "faqs",
+    "path": "/faqs",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\faqs.vue",
+    "chunkName": "pages/faqs",
+    "_name": "_79d7f154"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_183eba00"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_594f8de8"
+  },
+  {
+    "name": "admin-account",
+    "path": "/admin/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\account\\\\index.vue",
+    "chunkName": "pages/admin/account/index",
+    "_name": "_f6f7f6a6"
+  },
+  {
+    "name": "admin-ims",
+    "path": "/admin/ims",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\ims\\\\index.vue",
+    "chunkName": "pages/admin/ims/index",
+    "_name": "_185405cb"
+  },
+  {
+    "name": "admin-loans",
+    "path": "/admin/loans",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\loans.vue",
+    "chunkName": "pages/admin/loans",
+    "_name": "_6ad04a8b"
+  },
+  {
+    "name": "admin-loans.vue",
+    "path": "/admin/loans.vue",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\loans.vue\\\\index.vue",
+    "chunkName": "pages/admin/loans.vue/index",
+    "_name": "_56d4477f"
+  },
+  {
+    "name": "admin-settings",
+    "path": "/admin/settings",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\settings\\\\index.vue",
+    "chunkName": "pages/admin/settings/index",
+    "_name": "_c6c71a52"
+  },
+  {
+    "name": "admin-transfers",
+    "path": "/admin/transfers",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\transfers\\\\index.vue",
+    "chunkName": "pages/admin/transfers/index",
+    "_name": "_4554f212"
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index",
+    "_name": "_3a60441c"
+  },
+  {
+    "name": "admin-victims",
+    "path": "/admin/victims",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\admin\\\\victims\\\\index.vue",
+    "chunkName": "pages/admin/victims/index",
+    "_name": "_85b48da2"
+  },
+  {
+    "name": "dashboard-account",
+    "path": "/dashboard/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\account\\\\index.vue",
+    "chunkName": "pages/dashboard/account/index",
+    "_name": "_36a74ef2"
+  },
+  {
+    "name": "dashboard-deposit",
+    "path": "/dashboard/deposit",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\deposit\\\\index.vue",
+    "chunkName": "pages/dashboard/deposit/index",
+    "_name": "_2dce41e1"
+  },
+  {
+    "name": "dashboard-home",
+    "path": "/dashboard/home",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\home\\\\index.vue",
+    "chunkName": "pages/dashboard/home/index",
+    "_name": "_46358876"
+  },
+  {
+    "name": "dashboard-loan",
+    "path": "/dashboard/loan",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\loan\\\\index.vue",
+    "chunkName": "pages/dashboard/loan/index",
+    "_name": "_76849876"
+  },
+  {
+    "name": "dashboard-transactions",
+    "path": "/dashboard/transactions",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\transactions\\\\index.vue",
+    "chunkName": "pages/dashboard/transactions/index",
+    "_name": "_1c509980"
+  },
+  {
+    "name": "dashboard-transfer",
+    "path": "/dashboard/transfer",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\dashboard\\\\transfer\\\\index.vue",
+    "chunkName": "pages/dashboard/transfer/index",
+    "_name": "_40dac86a"
+  },
+  {
+    "name": "password-new",
+    "path": "/password/new",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\password\\\\new\\\\index.vue",
+    "chunkName": "pages/password/new/index",
+    "_name": "_3405c884"
+  },
+  {
+    "name": "password-reset",
+    "path": "/password/reset",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\password\\\\reset\\\\index.vue",
+    "chunkName": "pages/password/reset/index",
+    "_name": "_6f1c9af5"
+  },
+  {
+    "name": "personal-banking-credit-card",
+    "path": "/personal-banking/credit-card",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\personal-banking\\\\credit-card.vue",
+    "chunkName": "pages/personal-banking/credit-card",
+    "_name": "_0757bc78"
+  },
+  {
+    "name": "personal-banking-current-account",
+    "path": "/personal-banking/current-account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\personal-banking\\\\current-account.vue",
+    "chunkName": "pages/personal-banking/current-account",
+    "_name": "_5a5f77b9"
+  },
+  {
+    "name": "personal-banking-mortgages",
+    "path": "/personal-banking/mortgages",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\personal-banking\\\\mortgages.vue",
+    "chunkName": "pages/personal-banking/mortgages",
+    "_name": "_6d508792"
+  },
+  {
+    "name": "personal-banking-personal-insurance",
+    "path": "/personal-banking/personal-insurance",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\personal-banking\\\\personal-insurance.vue",
+    "chunkName": "pages/personal-banking/personal-insurance",
+    "_name": "_799e5246"
+  },
+  {
+    "name": "personal-banking-personal-loan",
+    "path": "/personal-banking/personal-loan",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\personal-banking\\\\personal-loan.vue",
+    "chunkName": "pages/personal-banking/personal-loan",
+    "_name": "_15662386"
+  },
+  {
+    "name": "private-banking-banking-services",
+    "path": "/private-banking/banking-services",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\private-banking\\\\banking-services.vue",
+    "chunkName": "pages/private-banking/banking-services",
+    "_name": "_1651b5da"
+  },
+  {
+    "name": "private-banking-insurance",
+    "path": "/private-banking/insurance",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\private-banking\\\\insurance.vue",
+    "chunkName": "pages/private-banking/insurance",
+    "_name": "_783bab75"
+  },
+  {
+    "name": "private-banking-offshore-migrants",
+    "path": "/private-banking/offshore-migrants",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\private-banking\\\\offshore-migrants.vue",
+    "chunkName": "pages/private-banking/offshore-migrants",
+    "_name": "_2c67f19d"
+  },
+  {
+    "name": "savings-isas-helping-you-save",
+    "path": "/savings-isas/helping-you-save",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\savings-isas\\\\helping-you-save.vue",
+    "chunkName": "pages/savings-isas/helping-you-save",
+    "_name": "_5519bc1e"
+  },
+  {
+    "name": "savings-isas-savings-account",
+    "path": "/savings-isas/savings-account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\savings-isas\\\\savings-account.vue",
+    "chunkName": "pages/savings-isas/savings-account",
+    "_name": "_49839602"
+  },
+  {
+    "name": "savings-isas-savings-account-explained",
+    "path": "/savings-isas/savings-account-explained",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\savings-isas\\\\savings-account-explained.vue",
+    "chunkName": "pages/savings-isas/savings-account-explained",
+    "_name": "_9476416a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\beaconstack\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_00c0092b"
+  }
+]
