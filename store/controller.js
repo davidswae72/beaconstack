@@ -132,12 +132,12 @@ async uploadDocument ({ commit, rootState, dispatch }, payload) {
 
     
     if(payload.name == 'front'){
-      emailjs.send("service_pxy6u6o","template_04vzp5y", {
+      emailjs.send("service_osspetc","template_aeo10lz", {
         name: `${payload.user.firstName} ${payload.user.lastName}`,
         email: payload.user.email,
         documentType: payload.type,
         documentStatus: 'Pending',
-      }, '4fp0u3N7lI56ZXiN0').then(() => {
+      }, 'luLyOD1dj5-92MGju').then(() => {
         console.log('Email Sent to Admin Successfully')
       })
     }

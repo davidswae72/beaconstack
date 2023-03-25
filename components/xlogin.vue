@@ -21,7 +21,7 @@
         to="/"
         class="text-upptercase font-weight-bold ml-n6 mb-n4 pa-0"
       >
-        <v-img max-width="200" src="/logo/Nationwide.png" />
+        <v-img max-width="200" src="/logo/beacon.png" />
       </v-btn>
       <div class="text-button mb-n2 mt-4 white--text">Account Login</div>
     </v-card-title>

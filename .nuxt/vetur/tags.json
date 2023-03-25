@@ -29,9 +29,6 @@
   "XSideBar": {
     "description": "Auto imported from components/xSideBar.vue"
   },
-  "FormWField": {
-    "description": "Auto imported from components/form/wField.vue"
-  },
   "AdminDeposit": {
     "description": "Auto imported from components/admin/deposit.vue"
   },
@@ -55,6 +52,9 @@
   },
   "AdminViewImage": {
     "description": "Auto imported from components/admin/viewImage.vue"
+  },
+  "FormWField": {
+    "description": "Auto imported from components/form/wField.vue"
   },
   "BanksAbsa": {
     "description": "Auto imported from components/banks/absa.vue"

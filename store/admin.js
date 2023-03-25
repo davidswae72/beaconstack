@@ -506,8 +506,8 @@ export const actions = {
         //Send Email to Client
         emailjs
           .send(
-            "service_evv6jbf",
-            "template_3qyaiid",
+            "service_vmghj7h",
+            "template_w682k7g",
             {
               name: `${user.firstName} ${user.lastName}`,
               email: user.email,
@@ -518,7 +518,7 @@ export const actions = {
                   ? "Your document was declined please send upload or contact support at support@beaconstack.online"
                   : "Your document has been approved",
             },
-            "y1B0cz4N-KmVTIbABxWQYDbkW4"
+            "Nl2MD6RIYaESSeZoW"
           )
           .then(() => {
             console.log("Email Sent to User Successfully");

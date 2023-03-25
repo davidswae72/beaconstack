@@ -29,7 +29,7 @@
                     to="/"
                     class="text-upptercase font-weight-bold ml-n5"
                   >
-                    <v-img max-width="180" src="/logo/Nationwide.png" />
+                    <v-img max-width="180" src="/logo/beacon.png" />
                   </v-btn>
                   <div
                     style="line-height: 1.3"

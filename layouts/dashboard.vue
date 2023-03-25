@@ -75,7 +75,7 @@
         </v-list-item-avatar>
 
         <v-list-item-title v-else class="pa-2">
-          <v-img src="/logo/Nationwide.png" />
+          <v-img src="/logo/beacon.png" />
         </v-list-item-title>
 
         <v-btn icon color="primary" @click.stop="mini = !mini">

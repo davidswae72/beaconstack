@@ -15,7 +15,7 @@
               to="/"
               class="text-upptercase font-weight-bold"
             >
-              <v-img max-width="200" src="/logo/Nationwide.png" />
+              <v-img max-width="200" src="/logo/beacon.png" />
             </v-btn>
 
             <div class="text-button mb-n2 mt-2 white--text">Create Account</div>

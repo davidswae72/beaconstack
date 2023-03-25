@@ -20,7 +20,7 @@
           Let’s fight ‘safe account’ scams​
         </div>
         <p class="text-subtitle-2 text-md-subtitle-1">
-          Nationwide or the Police will never tell you that your money is at risk and you need to move it to a safe account.
+          Beacon Stack Team or the Police will never tell you that your money is at risk and you need to move it to a safe account.
         </p>
         <VBtn depressed color="accent" to="/faqs" >
           Learn how to stay safe
@@ -95,7 +95,7 @@
     >
       <VCard class="px-3 py-5">
         <div class="text-md-h4 text-h6 font-weight-bold  my-3">
-          What makes Nationwide different?
+          What makes Beacon Stack different?
         </div>
         <p class="text-md-subtitle-1 text-subtitle-2 font-weight-medium my-2">
           We're not just a online bank. We’re a building society, or mutual, owned by our members. That’s anyone who banks, saves or has a mortgage with us.
@@ -202,7 +202,7 @@ data-aos-easing="ease-in-out">
         Overall service quality – Great Britain
       </div>
       <VCard flat tile>
-        <v-img class="my-5" width="400" src="https://www.nationwide.co.uk/-/assets/nationwidecouk/images/current-accounts/category/service-quality-metrics/servicequalityresultsgb-image-5050-desktop2x.png?h=497&iar=0&w=1124&rev=02b9525facd94067868a10794c09b319&hash=5E6D01F86FD9E10635E3FEAC9C6195ED" cover/>
+        <v-img class="my-5" width="400" src="/logo/lastbeacon.png" cover/>
       </VCard>
     </VCol>
     <VCol cols="10" md="5"
@@ -214,7 +214,7 @@ data-aos-easing="ease-in-out">
         Overall service quality – Northern Ireland
       </div>
       <VCard flat tile>
-        <v-img class="my-5" width="400" src="https://www.nationwide.co.uk/-/assets/nationwidecouk/images/current-accounts/category/service-quality-metrics/servicequalityresultsni-image-5050-desktop2x.png?h=519&iar=0&w=1124&rev=123437cfadce4e38b25e6919e0cf61f9&hash=339BA0A139B2F26104BFA2C0273CDB7F" cover/>
+        <v-img class="my-5" width="400" src="/logo/thirdbeacon.png" cover/>
       </VCard>
     </VCol>
   </VRow>
