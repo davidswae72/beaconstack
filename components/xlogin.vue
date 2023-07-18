@@ -87,7 +87,7 @@
           </v-col>
           <v-col cols="12" class="dark--text py-1 mt-2 text-center">
             <div>
-              New to <strong>Beacon Stack online bank?</strong>
+              New to <strong>Ecofinance online bank?</strong>
               <nuxt-link
                 to="/register"
                 tag="a"
@@ -100,7 +100,7 @@
           <v-col cols="12" class="mt-2">
             <div class="text-caption secondary--text">
               <u> Before you login, please remember: </u><br />
-              <strong> Beacon Stack online bank </strong> will not ask you for your
+              <strong> Ecofinance online bank </strong> will not ask you for your
               online access and private information Don't let anyone know your
               security details
             </div>

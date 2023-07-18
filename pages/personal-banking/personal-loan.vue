@@ -37,7 +37,7 @@
                   >
                     We take pride in helping families with affordable solutions
                     to their money needs. <br class="hidden-sm-and-down" />
-                    Contact your nearest Beacon Stack online bank Branches.
+                    Contact your nearest Ecofinance online bank Branches.
                   </p>
                   <!-- <v-btn
                     tile
@@ -60,7 +60,7 @@
               First Finance Personal Loan
             </div>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
-              Beacon Stack online bank makes installment loans at all of our
+              Ecofinance online bank makes installment loans at all of our
               full-service bank locations, with friendly, helpful loan officers.
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
@@ -83,14 +83,14 @@
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               For important needs in life that requires a Personal Loan, see
-              your Beacon Stack online bank loan officer right away. If you do not
+              your Ecofinance online bank loan officer right away. If you do not
               already have a loan officer, we will be happy to introduce you to
               the right banker. We also make Personal Loans secured by stocks,
               certificates of deposit, or other personal assets.
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               We take pride in helping families with affordable solutions to
-              their money needs. Contact your nearest Beacon Stack online bank Branches.
+              their money needs. Contact your nearest Ecofinance online bank Branches.
             </p>
           </v-col>
         </v-row>
@@ -120,7 +120,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "We take pride in helping families with affordable solutions to their money needs. Contact your nearest Beacon Stack online bank Branches.",
+            "We take pride in helping families with affordable solutions to their money needs. Contact your nearest Ecofinance online bank Branches.",
         },
       ],
       script: [

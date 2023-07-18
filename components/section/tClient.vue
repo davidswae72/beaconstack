@@ -97,7 +97,7 @@ export default {
         name: " John Smith",
         occupation: " Courier",
         description:
-          "For more than two decades I've been banking with Beacon Stack online bank. To me the customer service is top notch you know.",
+          "For more than two decades I've been banking with Ecofinance online bank. To me the customer service is top notch you know.",
       },
       {
         delay: 600,
@@ -105,7 +105,7 @@ export default {
         name: "Adele Lucy",
         occupation: "Event Planner",
         description:
-          "One thing very outstanding about Beacon Stack online bank is the loan program. For once I paid back a loan without being under pressure.",
+          "One thing very outstanding about Ecofinance online bank is the loan program. For once I paid back a loan without being under pressure.",
       },
     ],
   }),

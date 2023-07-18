@@ -58,7 +58,7 @@
             <div
               class="primary--text text-h4 text-sm-h3 mb-2 font-weight-light"
             >
-              Beacon Stack online bank Services
+              Ecofinance online bank Services
             </div>
             <div class="text-subtitle-1 text-sm-h6 dark--text my-4">
               Banking services created exclusively for you
@@ -146,7 +146,7 @@
               class="text-subtitle-2 text-sm-subtitle-1 font-weight-light mt-4"
             >
               You and your family will also receive Worldwide Family Multi-Trip
-              Travel Insurance, provided by Beacon Stack online bank. This multi-trip
+              Travel Insurance, provided by Ecofinance online bank. This multi-trip
               travel insurance policy provides up to 31 days cover per trtip and
               there's no annual limit on the number of times you can travel.
               Your travel insurance includes up to 17 days winter sports,

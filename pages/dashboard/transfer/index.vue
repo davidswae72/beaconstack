@@ -363,10 +363,10 @@
                       <v-btn
                         color="accent"
                         text
-                        href="mailto:support@beaconstack.online"
+                        href="mailto:support@ecofinance.online"
                         class="px-0 text-lowercase"
                       >
-                        support@beaconstack.online
+                        support@ecofinance.online
                       </v-btn>
                       to get an <strong>I.M.S Code</strong>
                     </v-col>
@@ -829,7 +829,7 @@ export default {
         timer: 5000,
         type: "accent",
         message:
-          "This service is not available in your region. Send us an email via support@beaconstack.online for enquiries.",
+          "This service is not available in your region. Send us an email via support@ecofinance.online for enquiries.",
       });
     },
 

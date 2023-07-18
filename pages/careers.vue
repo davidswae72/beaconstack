@@ -56,7 +56,7 @@
           face of generic products offered by the management. Customer care is a
           cornerstone of the bank’s long term competitive advantage. First
           Chartered Bank explicitly speaks of our bank’s customer centric focus.
-          Thus, our business in Beacon Stack online bank is centered on our customers
+          Thus, our business in Ecofinance online bank is centered on our customers
           and their ultimate satisfaction.
         </p>
         <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">

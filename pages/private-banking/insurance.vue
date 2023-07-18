@@ -35,7 +35,7 @@
                   <p
                     class="text-subtitle-2 text-md-subtitle-1 font-weight-light"
                   >
-                    As a Beacon Stack online bank Private customer, your Relationship
+                    As a Ecofinance online bank Private customer, your Relationship
                     Manager <br class="hidden-sm-and-down" />
                     will work with you to provide insurance solutions that meet
                     your needs.
@@ -67,7 +67,7 @@
             <p
               class="text-subtitle-2 text-sm-subtitle-1 font-weight-light mt-4"
             >
-              As a Beacon Stack online bank Private customer, your Relationship Manager
+              As a Ecofinance online bank Private customer, your Relationship Manager
               will work with you to provide insurance solutions that meet your
               needs. Whether you are looking for protection for your life and
               lifestyle, your home and contents or your car, we can help create
@@ -75,7 +75,7 @@
               when your circumstances and goals do.
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
-              Superior home insurance Beacon Stack online bank Private gives you access
+              Superior home insurance Ecofinance online bank Private gives you access
               to a market leading home insurance service. This excellent service
               comes with home emergency cover as standard, complimentary 24-hour
               personal security support and advice on everything from safety
@@ -119,7 +119,7 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: `As a Beacon Stack online bank Private customer, your Relationship Manager will work with you to provide insurance solutions that meet your needs.`,
+          content: `As a Ecofinance online bank Private customer, your Relationship Manager will work with you to provide insurance solutions that meet your needs.`,
         },
       ],
       script: [

@@ -35,7 +35,7 @@
                     style="line-height: 1.3"
                     class="font-weight-light text1--text text-subtitle-1 py-4 mt-4"
                   >
-                    Beacon Stack online bank is subsidiary of Belfius Bank & issuer of
+                    Ecofinance online bank is subsidiary of Belfius Bank & issuer of
                     Debt instruments. We are a privately operates personal and
                     business banking, including Internet Banking services based
                     in the Belgium with operations all over the world and
@@ -122,7 +122,7 @@
 
           <v-spacer /> -->
           <span class="text-body-2 font-weight-light" style="color: #e5f0f8;">
-            ©2019 - {{ new Date().getFullYear() }} Beacon Stack Online Bank All rights reserved.
+            ©2019 - {{ new Date().getFullYear() }} Ecofinance Online Bank All rights reserved.
           </span>
         </v-col>
         <v-col col="12" md="10">
@@ -218,14 +218,14 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
 
         {
           hid: "og:description",
           property: "og:description",
           content:
-            "Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
         {
           hid: "og:image",
@@ -245,7 +245,7 @@ export default {
         {
           hid: "og:title",
           property: "og:title",
-          content: "Beacon Stack online bank",
+          content: "Ecofinance online bank",
         },
         {
           hid: "twitter:card",

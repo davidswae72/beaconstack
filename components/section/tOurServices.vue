@@ -20,7 +20,7 @@
           Let’s fight ‘safe account’ scams​
         </div>
         <p class="text-subtitle-2 text-md-subtitle-1">
-          Beacon Stack Team or the Police will never tell you that your money is at risk and you need to move it to a safe account.
+          Ecofinance Team or the Police will never tell you that your money is at risk and you need to move it to a safe account.
         </p>
         <VBtn depressed color="accent" to="/faqs" >
           Learn how to stay safe
@@ -95,7 +95,7 @@
     >
       <VCard class="px-3 py-5">
         <div class="text-md-h4 text-h6 font-weight-bold  my-3">
-          What makes Beacon Stack different?
+          What makes Ecofinance different?
         </div>
         <p class="text-md-subtitle-1 text-subtitle-2 font-weight-medium my-2">
           We're not just a online bank. We’re a building society, or mutual, owned by our members. That’s anyone who banks, saves or has a mortgage with us.
@@ -306,7 +306,7 @@ export default {
 
         title: "Personal Loan",
         description:
-          "Beacon Stack online bank makes installment loans at all of our full-service bank locations, with friendly, helpful loan officers.",
+          "Ecofinance online bank makes installment loans at all of our full-service bank locations, with friendly, helpful loan officers.",
       },
       {
         delay: 600,

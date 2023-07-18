@@ -55,7 +55,7 @@
               'Checking Account',
               'Savings Account',
               'Fixed Deposit Account',
-              'Perium Beacon Stack online bank',
+              'Perium Ecofinance online bank',
             ]"
             outlined
             class="text-subtitle-2 font-weight-light rounded-md"
@@ -116,7 +116,7 @@
           />
         </v-col>
         <v-col
-          v-if="(from && from.toLowerCase()) !== 'Beacon Stack online bank'"
+          v-if="(from && from.toLowerCase()) !== 'Ecofinance online bank'"
           cols="12"
           class="py-0 mb-n1"
         >
@@ -238,7 +238,7 @@ export default {
     show: false,
     advance: false,
     actions: "Credit",
-    from: "Beacon Stack online bank",
+    from: "Ecofinance online bank",
     bank: "",
     accBal: 0,
     bookBal: 0,

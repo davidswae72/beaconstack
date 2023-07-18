@@ -79,7 +79,7 @@
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               You can avoid the fee with a $150 minimum daily balance or $200
               average quarterly balance. Open your Savings Account with a
-              minimum opening deposit of $100 at your nearest Beacon Stack online bank
+              minimum opening deposit of $100 at your nearest Ecofinance online bank
               Branches.
             </p>
           </v-col>

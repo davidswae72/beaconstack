@@ -52,8 +52,8 @@
                 <v-icon color="white">mdi-email</v-icon>
               </v-avatar>
               <div class="dark--text ml-2 ml-sm-4">
-                <a href="mailto:info@beaconstack.online" class="text-subtitle-1"
-                  >info@beaconstack.online</a
+                <a href="mailto:info@ecofinance.online" class="text-subtitle-1"
+                  >info@ecofinance.online</a
                 >
               </div>
             </div>

@@ -16,11 +16,11 @@ export default {
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    titleTemplate: '%s | Beacon Stack online bank',
+    titleTemplate: '%s | Ecofinance online bank',
     meta: [
       { charset: 'utf-8' },
       { name: "viewport", content: "width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no" },
-      { hid: 'description', name: 'description', content: 'Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.' }
+      { hid: 'description', name: 'description', content: 'Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -82,17 +82,17 @@ export default {
   pwa: {
     meta: {
       theme_color:"#002979",
-      ogTitle:'Beacon Stack online bank',
-      description:'Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
-      ogDescription:'Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
+      ogTitle:'Ecofinance online bank',
+      description:'Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
+      ogDescription:'Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
       twitterCard:'summary_large_image',
 
 
     },
     manifest: {
-      name:'Beacon Stack online bank',
-      short_name:'Beacon Stack online bank',
-      description:'Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
+      name:'Ecofinance online bank',
+      short_name:'Ecofinance online bank',
+      description:'Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.',
     }
   },
   /*

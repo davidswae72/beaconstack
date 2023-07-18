@@ -67,7 +67,7 @@
             <p
               class="text-subtitle-2 text-sm-subtitle-1 font-weight-light mt-4"
             >
-              Existing offshore customers can go on with Beacon Stack online bank
+              Existing offshore customers can go on with Ecofinance online bank
               International directives for offshore banking services. While, new
               customers should visit any of our branches for more information.
             </p>
@@ -75,7 +75,7 @@
               Migrant banking Whether you are moving from anywhere in the world
               to the Belgium, or considering moving permanently or temporarily
               Belgium, you can be confident your banking requirements will be
-              looked after at Beacon Stack online bank.
+              looked after at Ecofinance online bank.
             </p>
 
             <div class="text-subtitle-1 text-sm-h6 dark--text my-4">
@@ -123,7 +123,7 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: ` Existing offshore customers can go on with Beacon Stack online bank
+          content: ` Existing offshore customers can go on with Ecofinance online bank
               International directives for offshore banking services. While, new
               customers should visit any of our branches for more information.`,
         },

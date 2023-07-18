@@ -63,11 +63,11 @@
             </div>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               Anyone who opens a personal checking account may apply for a free
-              Beacon Stack online bank CheckCard. It's the card that works like a check,
+              Ecofinance online bank CheckCard. It's the card that works like a check,
               anywhere VISA is accepted. It also serves as an ATM card at any
               PULSE/CIRRUS/DASH affiliated Automatic Teller Machine or PULSEPAY
               terminal. Choose your own Personal Identification Number (PIN) at
-              your nearest Beacon Stack online bank location.
+              your nearest Ecofinance online bank location.
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               There is no fee for withdrawals or transactions at ATMs we
@@ -78,7 +78,7 @@
             </p>
 
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
-              To report lost or stolen Beacon Stack online bank Checkcards or ATM Cards:
+              To report lost or stolen Ecofinance online bank Checkcards or ATM Cards:
               Monday – Friday from 8:30am to 5:00pm
             </p>
 
@@ -88,7 +88,7 @@
               Visa and the Visa Flex Miles Cards that reward you with free
               airline tickets. These cards are accepted worldwide at businesses,
               financial institutions and ATMs. MasterCard® and VISA® Card
-              applications are available at all Beacon Stack online bank location.
+              applications are available at all Ecofinance online bank location.
               Credit Cards are subject to credit approval.
             </p>
           </v-col>

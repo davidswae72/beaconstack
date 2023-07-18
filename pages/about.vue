@@ -162,7 +162,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            " Beacon Stack online bank vision is to open the global markets for everyone to trade and invest in a simple and transparent way.",
+            " Ecofinance online bank vision is to open the global markets for everyone to trade and invest in a simple and transparent way.",
         },
       ],
     };

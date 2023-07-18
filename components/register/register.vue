@@ -8,7 +8,7 @@
       <div class="text-left text-subtitle-1 text-sm-h6 font-weight-light mt-4">
         Banking Onboarding is the
         <span class="font-weight-bold">first step</span> to become a
-        <span class="font-weight-bold">Beacon Stack online bank client</span>. Onboard
+        <span class="font-weight-bold">Ecofinance online bank client</span>. Onboard
         now and get access to the most comprehensive banking service offered.
       </div>
       <p

@@ -71,10 +71,10 @@
             </p>
 
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
-              You'll have our free Beacon Stack online bank CheckCard which is also your
+              You'll have our free Ecofinance online bank CheckCard which is also your
               ATM Card. Overdraft Privilege available after qualifying period.
               Open your Personal Checking Account with a minimum opening deposit
-              of $350 at Beacon Stack online bank center.
+              of $350 at Ecofinance online bank center.
             </p>
           </v-col>
         </v-row>

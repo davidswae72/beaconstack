@@ -262,7 +262,7 @@ export default {
     ],
     Helps: [
       {
-        text : 'What is Beacon Stack online bank',
+        text : 'What is Ecofinance online bank',
         route: '/faqs'
       },
       {
@@ -270,7 +270,7 @@ export default {
         route: '/faqs'
       },
       {
-        text : 'How safe is Beacon Stack online bank Internet Banking Services',
+        text : 'How safe is Ecofinance online bank Internet Banking Services',
         route: '/faqs'
       },
       {

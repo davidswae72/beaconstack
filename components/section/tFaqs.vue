@@ -36,16 +36,16 @@ export default {
   data: () => ({
     faq: [
       {
-        name: "What is Beacon Stack online bank?",
-        des: "Beacon Stack online bank is subsidiary of Belfius Bank & issuer of Debt instruments. We are a privately operates personal and business banking, including Internet Banking services based in the Belgium with operations all over the world and managed by security professionals with years of experiences in banking security and network protection. We also work closely with an Auditor who has more than a decade of experience evaluating the computer security at some of the largest banks in the Belgium. Moreover, our advisory board as well as our Supreme Governing Council assists with our decision making, planning and review process to ensure we offer you the most secure services possible.",
+        name: "What is Ecofinance online bank?",
+        des: "Ecofinance online bank is subsidiary of Belfius Bank & issuer of Debt instruments. We are a privately operates personal and business banking, including Internet Banking services based in the Belgium with operations all over the world and managed by security professionals with years of experiences in banking security and network protection. We also work closely with an Auditor who has more than a decade of experience evaluating the computer security at some of the largest banks in the Belgium. Moreover, our advisory board as well as our Supreme Governing Council assists with our decision making, planning and review process to ensure we offer you the most secure services possible.",
       },
       {
-        name: "Is Beacon Stack online bank an Investment Bank?",
-        des: "Yes. Beacon Stack online bank is an Investment Bank.",
+        name: "Is Ecofinance online bank an Investment Bank?",
+        des: "Yes. Ecofinance online bank is an Investment Bank.",
       },
       {
-        name: "How safe is Beacon Stack online bank Internet Banking Services",
-        des: "Beacon Stack online bank is the safest among it's rivals. We designed Beacon Stack online bank specifically to protect client's private information and funds. Unlike other Internet-based or online banks that simply add security features to their existing services or Internet sites, we designed our network frame and server from the ground up with strong security in mind.",
+        name: "How safe is Ecofinance online bank Internet Banking Services",
+        des: "Ecofinance online bank is the safest among it's rivals. We designed Ecofinance online bank specifically to protect client's private information and funds. Unlike other Internet-based or online banks that simply add security features to their existing services or Internet sites, we designed our network frame and server from the ground up with strong security in mind.",
       },
       {
         name: "Are my personal data and funds secured?",
@@ -57,7 +57,7 @@ export default {
       },
       {
         name: "What is the RTDD?",
-        des: "The RTGS is a RealTime Direct Deposit innovative services from Beacon Stack online bank. This service allows account holders to transfer funds from their account to any other account anywhere in the world in real time settlement regardless of the amount being transfered. That is with the RealTime Direct Deposit. Account holders deposit funds from their account with Beacon Stack online bank, to another account via a secure tunnel. Regardless of the amount being transferred, the funds transfer is completed within 6 minutes and can be confirmed by their recieving bank with the 48 - 72 hours.",
+        des: "The RTGS is a RealTime Direct Deposit innovative services from Ecofinance online bank. This service allows account holders to transfer funds from their account to any other account anywhere in the world in real time settlement regardless of the amount being transfered. That is with the RealTime Direct Deposit. Account holders deposit funds from their account with Ecofinance online bank, to another account via a secure tunnel. Regardless of the amount being transferred, the funds transfer is completed within 6 minutes and can be confirmed by their recieving bank with the 48 - 72 hours.",
       },
       {
         name: "Is my account activated with the service?",

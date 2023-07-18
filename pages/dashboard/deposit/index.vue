@@ -77,7 +77,7 @@
                           >
                             Contact
                             <span class="secondary--text"
-                              >support@beaconstack.online</span
+                              >support@ecofinance.online</span
                             >
                             for {{ card.paymentMethod }} payment
                           </span>

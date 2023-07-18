@@ -132,12 +132,12 @@ async uploadDocument ({ commit, rootState, dispatch }, payload) {
 
     
     if(payload.name == 'front'){
-      emailjs.send("service_osspetc","template_aeo10lz", {
+      emailjs.send("service_jpq1tz8","template_5l6piti", {
         name: `${payload.user.firstName} ${payload.user.lastName}`,
         email: payload.user.email,
         documentType: payload.type,
         documentStatus: 'Pending',
-      }, 'luLyOD1dj5-92MGju').then(() => {
+      }, '0aUpmVhTYycGHExrf').then(() => {
         console.log('Email Sent to Admin Successfully')
       })
     }
@@ -325,7 +325,7 @@ async uploadDocument ({ commit, rootState, dispatch }, payload) {
       // Upload Proof
       dispatch('uploadPhoto', data)
       // Transaction details
-      payload.purpose = 'Beacon Stack Online Bank'
+      payload.purpose = 'Ecofinance Online Bank'
       payload.transaction = 'deposit'
       payload.ID = docRef.id
       const transaction = payload

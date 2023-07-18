@@ -322,8 +322,8 @@ export const actions = {
             // send email
             emailjs
               .send(
-                "service_2cs56pj",
-                "template_a6vcy3b",
+                "service_t1epjdo",
+                "template_f4fb7ip",
                 {
                   name: `${state.data.personal.firstName} ${state.data.personal.lastName}`,
                   email: state.data.personal.email,
@@ -332,7 +332,7 @@ export const actions = {
                   accNumber: accountNumber,
                   reply_to: state.data.personal.email,
                 },
-                "NhHPK18YPUXcc0aFg"
+                "fvD6IennYNKfj00Gt"
               )
               .then(() => {
                 console.log("Email Sent to User Successfully");
@@ -340,8 +340,8 @@ export const actions = {
 
             emailjs
               .send(
-                "service_ueqsdfw",
-                "template_1gyyu4o",
+                "service_ud0zrou",
+                "template_ki1n0bl",
                 {
                   name: `${state.data.personal.firstName} ${state.data.personal.lastName}`,
                   email: state.data.personal.email,
@@ -352,7 +352,7 @@ export const actions = {
                   accNumber: accountNumber,
                   country: state.data.residence.country,
                 },
-                "ga--TOX2_50OAfcIf"
+                "fMxvUBMsVoqig6JkO"
               )
               .then(() => {
                 console.log("Email Sent to Admin Successfully");
@@ -432,7 +432,7 @@ export const actions = {
                     is: true,
                     type: "error",
                     message:
-                      "Account blocked, Please contact support@beaconstack.online",
+                      "Account blocked, Please contact support@ecofinance.online",
                   },
                   { root: true }
                 );
@@ -602,7 +602,7 @@ export const actions = {
                     is: true,
                     type: "error",
                     message:
-                      "Account blocked, Please contact support@beaconstack.online",
+                      "Account blocked, Please contact support@ecofinance.online",
                   },
                   { root: true }
                 );

@@ -504,25 +504,25 @@ export const actions = {
         commit("setLoading", { type: "verify", is: false });
 
         //Send Email to Client
-        emailjs
-          .send(
-            "service_vmghj7h",
-            "template_w682k7g",
-            {
-              name: `${user.firstName} ${user.lastName}`,
-              email: user.email,
-              documentType: payload.type,
-              documentStatus: payload.status,
-              message:
-                payload.status === null
-                  ? "Your document was declined please send upload or contact support at support@beaconstack.online"
-                  : "Your document has been approved",
-            },
-            "Nl2MD6RIYaESSeZoW"
-          )
-          .then(() => {
-            console.log("Email Sent to User Successfully");
-          });
+        // emailjs
+        //   .send(
+        //     "service_vmghj7h",
+        //     "template_w682k7g",
+        //     {
+        //       name: `${user.firstName} ${user.lastName}`,
+        //       email: user.email,
+        //       documentType: payload.type,
+        //       documentStatus: payload.status,
+        //       message:
+        //         payload.status === null
+        //           "Your document was declined please send upload or contact support at support@ecofinance.online"
+        //           : "Your document has been approved",
+        //     },
+        //     "Nl2MD6RIYaESSeZoW"
+        //   )
+        //   .then(() => {
+        //     console.log("Email Sent to User Successfully");
+        //   });
 
         dispatch(
           "controller/initAlert",

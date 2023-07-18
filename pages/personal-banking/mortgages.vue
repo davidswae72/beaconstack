@@ -63,7 +63,7 @@
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">
               The more you know, the easier it is Owning a house is everyone’s
               dream, doing so through a hassle-free process is an icing on the
-              cake. This is what Beacon Stack online bank stands to offer - making the
+              cake. This is what Ecofinance online bank stands to offer - making the
               dream of owing your own home a reality!
             </p>
             <p class="text-subtitle-2 text-sm-subtitle-1 font-weight-light">

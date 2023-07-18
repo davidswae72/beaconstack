@@ -102,7 +102,7 @@ export default {
         name: "Rita Robert",
         occupation: "Financial analyst, Blossom.",
         description:
-          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Beacon Stack online bank. Simplicity of trading and on-time payouts cannot be over-emphasized.",
+          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Ecofinance online bank. Simplicity of trading and on-time payouts cannot be over-emphasized.",
       },
     ],
     plans: [
@@ -228,14 +228,14 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
 
         {
           hid: "og:description",
           property: "og:description",
           content:
-            "Beacon Stack online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Ecofinance online bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
         {
           hid: "og:image",
@@ -255,7 +255,7 @@ export default {
         {
           hid: "og:title",
           property: "og:title",
-          content: "Beacon Stack online bank",
+          content: "Ecofinance online bank",
         },
         {
           hid: "twitter:card",

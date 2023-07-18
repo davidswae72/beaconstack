@@ -53,9 +53,6 @@
   "AdminViewImage": {
     "description": "Auto imported from components/admin/viewImage.vue"
   },
-  "FormWField": {
-    "description": "Auto imported from components/form/wField.vue"
-  },
   "BanksAbsa": {
     "description": "Auto imported from components/banks/absa.vue"
   },
@@ -79,6 +76,9 @@
   },
   "BanksStandard": {
     "description": "Auto imported from components/banks/standard.vue"
+  },
+  "FormWField": {
+    "description": "Auto imported from components/form/wField.vue"
   },
   "InvestmentsPFeaturedInvestments": {
     "description": "Auto imported from components/investments/pFeaturedInvestments.vue"

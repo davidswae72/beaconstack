@@ -6,7 +6,7 @@
         <p
           class="text-left text-subtitle-2 text-md-subtitle-1 font-weight-light"
         >
-          Please enter the email address to register / log in for Beacon Stack Bank
+          Please enter the email address to register / log in for Ecofinance Bank
         </p>
       </v-col>
 

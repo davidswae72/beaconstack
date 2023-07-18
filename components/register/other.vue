@@ -84,7 +84,7 @@
               <v-icon size="20" color="accent" left> mdi-check </v-icon>
               <span
                 >You are the sole beneficial owner of the assets that you will
-                transfer to Beacon Stack online bank</span
+                transfer to Ecofinance online bank</span
               >
             </div>
             <div class="my-1">
